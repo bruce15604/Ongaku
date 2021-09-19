@@ -8,4 +8,4 @@ client.events = new Discord.Collection();
     require(`./handlers/${handler}`)(client, Discord);
 })
 
-client.login('ODg4OTQ4ODA3OTk4NTM3NzQ4.YUaIFw.DGfdgBSrFEAzojxwZtduEkxbxYk');
+client.login('BOT TOKEN HERE');
