@@ -1,0 +1,2 @@
+# Ongaku
+Discord Music Bot
